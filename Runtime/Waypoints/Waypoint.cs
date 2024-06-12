@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace FeHelpers
+namespace FeSimpleHelpers
 {
 	public class Waypoint : MonoBehaviour
 	{

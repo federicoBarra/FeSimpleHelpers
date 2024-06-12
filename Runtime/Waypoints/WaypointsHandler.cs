@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace FeHelpers
+namespace FeSimpleHelpers
 {
 	public class WaypointsHandler : MonoBehaviour
 	{
