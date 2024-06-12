@@ -11,6 +11,13 @@
   "dependencies": {
     "com.unity.inputsystem": "1.7.0"
   },
+  "samples": [
+        {
+            "displayName": "Samples",
+            "description": "Samples for this pack",
+            "path": "Samples~/PackSample"
+        }
+	],
   "keywords": [
     "keyword1",
     "keyword2",
